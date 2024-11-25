@@ -1,0 +1,4 @@
+C:\C#\Finalyearproject\Finalyearproject\bin\Finalyearproject.dll
+C:\C#\Finalyearproject\Finalyearproject\bin\Finalyearproject.pdb
+C:\C#\Finalyearproject\Finalyearproject\obj\Debug\Finalyearproject.dll
+C:\C#\Finalyearproject\Finalyearproject\obj\Debug\Finalyearproject.pdb
